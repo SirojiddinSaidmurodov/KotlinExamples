@@ -10,3 +10,4 @@
 8. [Conditions](conditions.kt)
 9. [Loops](loops.kt)
 10. [Ranges](ranges.kt)
+11. [Arrays](arrays.kt)
