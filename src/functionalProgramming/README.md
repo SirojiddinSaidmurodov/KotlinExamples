@@ -8,3 +8,4 @@
 6. [Function types](type.kt)
 7. [High order functions](highOrderFunctions.kt)
 8. [Anonymous functions](anonymousFunctions.kt)
+9. [Lambdas](lambda.kt)
