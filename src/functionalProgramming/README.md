@@ -7,3 +7,4 @@
 5. [Function overloading](overload.kt)
 6. [Function types](type.kt)
 7. [High order functions](highOrderFunctions.kt)
+8. [Anonymous functions](anonymousFunctions.kt)
