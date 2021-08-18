@@ -5,3 +5,4 @@
 3. [Return operator](return.kt)
 4. [Local and single expression functions](localAndSingleExpression.kt)
 5. [Function overloading](overload.kt)
+6. [Function types](type.kt)
