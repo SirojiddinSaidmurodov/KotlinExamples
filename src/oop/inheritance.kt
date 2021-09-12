@@ -10,10 +10,10 @@ open class Bird(var name: String) {
 // You can inherit class in two ways:
 //first is calling primary constructor of parental class just after class declaration
 class Duck(name: String) : Bird(name)
-/*second one is calling parental class constructor using super
-class Duck: Bird{
-    constructor(name: String): super(name){
-        
+
+/*second one is calling parental class constructor using super*/
+class Flamingo : Bird {
+    constructor(name: String) : super(name) {
+
     }
 }
-*/
